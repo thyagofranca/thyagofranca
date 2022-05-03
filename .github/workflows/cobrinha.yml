@@ -2,7 +2,7 @@ name: Snake Game
 
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
+      # Será atualizado a cada 12 horas.
     - cron: "* */12 * * *"
   workflow_dispatch:
 
