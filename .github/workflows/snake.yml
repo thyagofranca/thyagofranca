@@ -1,11 +1,6 @@
 name: Snack game
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
