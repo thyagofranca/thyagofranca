@@ -1,8 +1,7 @@
-## Olá! Eu sou Thyago França, programador WordPress 🤙
+## Olá! Eu sou Thyago França 🤙
 
-- 👨‍💻 Atualmente trabalho com WordPress
-- 👨‍🎓 Estudo JavaScript
-- 🙋‍ Pronouns: ele/dele
+- 👨‍💻 Atualmente sou programador WordPress, mas estou ampliando meus horizontes para chegar mais longe, estou me aprofundando em JavaScript para aprender React e React Native em um futuro próximo.
+Trabalho como freela nas horas vagas, e gosto de ajudar outras pessoas e ser ajudado, sem medo de ser feliz. 
 
 
 <div align="center">
@@ -11,18 +10,30 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagofranca&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
+## Tecnologias que domino 😎
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thy-btsp" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="Thy-css" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="Thy-html" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="Thy-wp" height="30" width="40" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img align="center" alt="Thy-mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
   
+##
+  
+## Tecnologias que tenho conhecimento e quero dominar 😜
 <div style="display: inline_block"><br>
   <img align="center" alt="Thy-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Thy-btsp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Thy-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Thy-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Thy-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Thy-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Thy-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Thy-wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  <img align="center" alt="Thy-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Thy-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Thy-php" height="40" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</div>
+
+##
+  
+## Tecnologias que quero aprender 👨‍🎓
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thy-vue" height="30" width="40" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img align="center" alt="Thy-react" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Thy-react-native" height="30" width="40" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
   
   ##
