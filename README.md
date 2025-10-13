@@ -18,13 +18,6 @@ Trabalho como freela nas horas vagas, e gosto de ajudar outras pessoas e ser aju
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br>
-  
-<strong>Tecnologias que quero aprender</strong> 👨‍🎓
-<div style="display: inline_block">
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div><br>
 
 <strong>Você me encontra por aqui</strong> 🙏
 <div style="display: inline_block"> 
