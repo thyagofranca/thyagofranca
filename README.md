@@ -31,5 +31,5 @@ Trabalho como freela nas horas vagas, e gosto de ajudar outras pessoas e ser aju
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagofranca&show_icons=true&icon_color=007bff&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagofranca&layout=compact&langs_count=7&theme=highcontrast"/>
     
-  ![Snake animation](https://raw.githubusercontent.com/thyagofranca/thyagofranca/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/thyagofranca/thyagofranca/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
