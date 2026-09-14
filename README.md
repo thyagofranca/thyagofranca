@@ -1,7 +1,11 @@
 ## Olá! Eu sou Thyago França 🤙
 
-👨‍💻 Atualmente sou programador WordPress, mas estou ampliando meus horizontes para chegar mais longe, estou me aprofundando em JavaScript para aprender React e React Native em um futuro próximo.
-Trabalho como freela nas horas vagas, e gosto de ajudar outras pessoas e ser ajudado, sem medo de ser feliz. 
+👨‍💻 Engenheiro de Software em IA Aplicada, Especialista em WordPress, Automação de negócios e processos com IA — agentes conversacionais (WhatsApp/n8n) Chatwoot, OpenAI/Gemini/ClaudeCode, RAG, MCP, multi-agentes e infraestrutura self-hosted (Docker). 
+
+LangChain, 
+LangGraph, 
+Machine Learning,
+Deep Learning e Redes Neurais
 <br><br>
   
 <strong>Tecnologias que domino</strong> 😎
